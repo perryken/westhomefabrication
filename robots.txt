@@ -1,0 +1,4 @@
+Sitemap: https://www.appconghana.com/sitemap.xml
+User-agent:*
+Disallow: /contact_sent.html
+Allow: /
