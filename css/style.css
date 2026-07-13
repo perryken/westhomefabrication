@@ -14,7 +14,7 @@ body {
 }
 
 p {
-	font-size: 16px;
+	font-size: 15px;
 	color: #2f2f2f;
 	font-weight: 400;
 	line-height: 1.5;
@@ -290,7 +290,7 @@ nav ul li ul li a {
 	position: absolute;
 	top: 0;
 	right: 0;
-	background: transparent;
+	background: #fff;
 	height: 55px;
 	width: 70px;
 }
@@ -312,7 +312,7 @@ nav ul li ul li a {
 	border-radius: 1px;
 	height: 3px;
 	width: 30px;
-	background: #ffffff;
+	background: #000;
 	position: absolute;
 	display: block;
 	content: '';
@@ -2566,7 +2566,7 @@ footer {
 .footer-list-top > li a {
 	width: 100%;
 	text-transform: capitalize;
-	font-size: 1rem;
+	font-size: 0.9rem;
 	color: #fff;
 	font-weight: 500;
 	line-height: 30px;
@@ -2591,7 +2591,7 @@ footer {
 }
 
 .footer-list-top p {
-	font-size: 18px;
+	font-size: 0.9rem;
 	color: #fff;
 	width: 100%;
 	line-height: 25px;
@@ -2623,7 +2623,7 @@ footer {
 }
 
 .footer-list-top  img {
-	width: 50%;
+	width: 99%;
 	padding: 20px;
 	margin-left: -15px;
   margin-top: -40px;
@@ -2646,7 +2646,7 @@ footer {
 }
 
 .foot3 p {
-	font-size: 16px;
+	font-size: 0.85rem;
 	font-weight:500;
 	color: #fff;
 	margin: 0px;
@@ -2656,7 +2656,7 @@ footer {
 }
 
 .foot3 a {
-	font-size: 16px;
+	font-size: 0.85rem;
 	font-weight:500;
 	color: #fff;
 	margin-left: 10px;
